@@ -1,0 +1,2 @@
+# recipectory
+recipe+directory = recipectory
